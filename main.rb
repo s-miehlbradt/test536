@@ -1,3 +1,9 @@
+puts "Hello Stonehenge!"
+puts "Hello Stonehenge!"
+puts "Hello Stonehenge!"
+puts "Hello Stonehenge!"
+puts "Hello Stonehenge!"
+
 def dull_adder(a,b,c,d,e,f)
   return a+b+c+d+e+f
 end
